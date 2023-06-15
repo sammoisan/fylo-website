@@ -1,4 +1,4 @@
 # fylo-website
 Front-end practice with Tailwind
 
-https://fylo-website-navy.vercel.app/
+https://fylo-website-sammoisan.vercel.app/
